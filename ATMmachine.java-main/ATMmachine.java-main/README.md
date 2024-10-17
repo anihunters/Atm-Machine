@@ -34,8 +34,7 @@ This Java program simulates basic ATM functionalities such as checking balance, 
 
 **Author:**
 
-Vivek Kumar
-**Contact: 7065164927 **
+Shivam Kumar Singh
 
-Vivekkumartiwary5787@gmail.com
+Ani261430@gmail.com
 Feel free to modify and enhance the program according to your needs!
